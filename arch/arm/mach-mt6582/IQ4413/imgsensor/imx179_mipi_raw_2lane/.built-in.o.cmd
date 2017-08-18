@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6582/imx179_mipi_raw_2lane/built-in.o :=  ./toolchain/linaro-4.9/bin/arm-linux-androideabi-ld -EL    -r -o drivers/misc/mediatek/imgsensor/src/mt6582/imx179_mipi_raw_2lane/built-in.o drivers/misc/mediatek/imgsensor/src/mt6582/imx179_mipi_raw_2lane/imx179mipiraw_Sensor.o 
